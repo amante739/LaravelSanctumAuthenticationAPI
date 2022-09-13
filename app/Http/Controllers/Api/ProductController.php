@@ -32,7 +32,7 @@ class ProductController extends Controller
      */
     public function create()
     {
-        //
+        //no use
     }
 
     /**
@@ -97,7 +97,7 @@ class ProductController extends Controller
      */
     public function edit($id)
     {
-        //
+        //no use
     }
 
     /**
